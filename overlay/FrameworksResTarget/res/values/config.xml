@@ -112,4 +112,7 @@
          auto-brightness adjustment setting. -->
     <fraction name="config_autoBrightnessAdjustmentMaxGamma">150%</fraction>
 
+    <!-- Whether the device supports Smart Pixels -->
+    <bool name="config_supportSmartPixels">false</bool>
+
 </resources>
